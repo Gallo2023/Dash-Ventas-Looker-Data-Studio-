@@ -21,10 +21,7 @@ Gratis – Escalabilidad Empresarial requiere Looker (pago aparte)
 
 Experiencia de Colaboración muy Simple.
 
-Se sumo una ilustracion resumiendo los principales hallazgos con la asistencia de Gemini Nano Banana.
 <img src="images\DataStudio.png" width="500"/>
-
-Analisis completo preliminar (ETL + EDA + Calculos Estadisticos Basicos)
 
 ## 🖼️ Vista previa
 <img src="images\DashVentasLooker.png" width="500"/>
