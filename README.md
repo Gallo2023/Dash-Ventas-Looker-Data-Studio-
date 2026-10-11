@@ -20,9 +20,7 @@ Se sumo una ilustracion resumiendo los principales hallazgos con la asistencia d
 Analisis completo preliminar (ETL + EDA + Calculos Estadisticos Basicos)
 
 ## 🖼️ Vista previa
-
-Dashboard Excel
-🛠️En construccion...🛠️
+<img src="images\DashVentasLooker.png" width="500"/>
 
 ## 🚀 Tecnologías
 - Excel en primera fase para un analisis exploratorio inicial.
