@@ -21,19 +21,16 @@ Gratis – Escalabilidad Empresarial requiere Looker (pago aparte)
 
 Experiencia de Colaboración muy Simple.
 
+Data Studio
 <img src="images\DataStudio.png" width="500"/>
 
-## 🖼️ Vista previa
+## 🖼️ Vista previa Dashboard
 <img src="images\DashVentasLooker.png" width="500"/>
 
 ## 🚀 Tecnologías
 - Excel en primera fase para un analisis exploratorio inicial.
-- Presentacion preliminar con Storytelling mostrando problemas y oportunidades de mejora.
-- Desarrollo de un dashboard rapido dentro del mismo Excel.
-- Armado de un dashboard mas completo en Looker Studio.
-- Desarrollo de un Dashboard completo y profesional en Power BI para una presentacion al cliente final.
-- Gemini Nano Banana (Ilustracion Métricas)
-- Claude
+- Importacion dentro de Google Sheets para mejor vinculacion a Data Studio
+- Armado de Dashboard Data Studio
 
 #### 👨‍💻 Author
 ###### Gabriel Gallardo
