@@ -30,7 +30,7 @@ Data Studio
 ## 🚀 Tecnologías
 - Excel en primera fase para un analisis exploratorio inicial.
 - Importacion dentro de Google Sheets para mejor vinculacion a Data Studio
-- Armado de Dashboard Data Studio
+- Armado de Dashboard Data Studio (antes Looker Studio).
 
 #### 👨‍💻 Author
 ###### Gabriel Gallardo
